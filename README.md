@@ -6,7 +6,6 @@ Este proyecto tiene como objetivo el concientizar sobre los tipos de cuidados de
 En un principio se podrá seleccionar el tipo de animal, a partir de ello se tienen distintos atributos (de acuerdo al animal seleccionado), de los cuales se desglozan igualmente atributos tipo clase los cuales tienen sus propios atributos.
 
 Una vez que selecciones el tipo de animal, podrás darle comida, agua, cariño, jugar con el, que vaya al baño, entre otros.
-Que se podria hacer?
 
 # Interés
 Me es interesante el proceso de relación entre los cuidados de distintos animales, al igual que del concepto del tamagochi y los valores de responsabilidad y empatía que se desarrollan a partir de su implementación.
