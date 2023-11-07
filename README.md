@@ -1,4 +1,4 @@
-# Tamagochi
+# PetMe++
 
 # Descripción / contexto
 Este proyecto tiene como objetivo el concientizar sobre los tipos de cuidados dependiendo del ser vivo, en este caso, diferentes tipos de animales.
