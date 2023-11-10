@@ -9,5 +9,4 @@ Me es interesante el proceso de relación entre los cuidados de distintos animal
 
 
 # Diagrama UML
-
-![PetMe++](https://github.com/Morgana119/PetMe/assets/145613786/02c1a045-38cd-4088-b723-9063b6b24f26)
+![PetMe++](https://github.com/Morgana119/PetMe/assets/145613786/3b5c8616-d612-4dd1-94ab-13a7a1aa6ecd)
