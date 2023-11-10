@@ -7,4 +7,7 @@ PetMe++ tiene el objetivo de concientizar sobre el cuidado de los animales al ig
 # Interés
 Me es interesante el proceso de relación entre los cuidados de distintos animales, al igual que del concepto de tener una mascota virtual y los valores de responsabilidad y empatía que se desarrollan a partir de su implementación; los cuales se pueden desarrolar con mayor facilidad para su implementación en la vida real.
 
+
+# Diagrama UML
+
 ![PetMe++](https://github.com/Morgana119/PetMe/assets/145613786/02c1a045-38cd-4088-b723-9063b6b24f26)
