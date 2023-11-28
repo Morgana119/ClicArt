@@ -3,8 +3,7 @@
 # Descripción / contexto 🐕 🐈 🐇
 PetMe++ tiene el objetivo de concientizar sobre el cuidado de los animales al igual que el enseñar a cuidar a una mascota. Lo primero que debes hacer es escoger entre 3 tipos de animales: perro, gato, conejo. Una vez que selecciones tu mascota, el tiempo empezará a correr. Dentro de las opciones que tienes para cuidar a tu mascota están:
 
-
-_1. Darle de comer_ 🦴
+_1. Darle de comer 🦴_
   + Para el perro las opciones de comida son: Croquetas de res, croquetas de pollo y premio.
   + Para el gato las opciones de comida son: Croquetas de salmón, croquetas de atún y premio.
   + Para el conejo las opciones de comida son: zanahoria, lechuga y premio.
