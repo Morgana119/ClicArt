@@ -30,7 +30,7 @@ Me es interesante el proceso de relación entre los cuidados de distintos animal
 # Instalación ⚙️
 Pasos a seguir para utilizar el programa:
 
-1. Descargar los archivos (Animal.h, Comida.h, Agua.h, Perro.h, Gato.h, Conejo.h, PetMe.cpp).
+1. Descarga los archivos (Animal.h, Comida.h, Agua.h, Perro.h, Gato.h, Conejo.h, PetMe.cpp).
 2. Guardarlos en un folder.
 3. Abre tu terminal dentro de ese folder.
 4. En tu terminal escribe: _g++ PetMe.cpp -o main.exe_
