@@ -1,4 +1,4 @@
-
+//Subclase Agua, relación de tipo agregación con Animal
 #ifndef AGUA_H
 #define AGUA_H
 
@@ -8,8 +8,8 @@ class Agua{
         int cantidadAgua;
 
     public:
+        Agua();
         Agua(int,int);
-        Agua(){}
 
         string getTipoA();
         void setTipoA(int);
@@ -17,13 +17,13 @@ class Agua{
         void setCantidadA(int);
 };
 
-//Agua::Agua(){} -> Por qué causa error?
+Agua::Agua(){} 
 Agua::Agua(int _tipoAgua,int _cantidadAgua){
     tipoAgua = _tipoAgua;
     cantidadAgua = _cantidadAgua;
 }
 
-string Agua::getTipoA(){
+string Agua::getTipoA(){ //De acuerdo a la varibale respuestaCuidados == 2 (Darle agua)
     string mensajeTipo;
     if (tipoAgua == 1){
         mensajeTipo = "\n Agua +10 puntos";
@@ -35,15 +35,15 @@ void Agua::setTipoA(int _tipoAgua){
     tipoAgua = _tipoAgua;
 }
 
-string Agua::getCantidadA(){
+string Agua::getCantidadA(){ //De acuerdo a la variable respuestaCantAgua
     string mensajeCant;
-    if (cantidadAgua == 1){
-        mensajeCant = " Media porción +5 puntos";
+    if (cantidadAgua == 1){ //Media porción
+        mensajeCant = " Media porción +5 puntos"; 
     }
-    else if (cantidadAgua == 2){
+    else if (cantidadAgua == 2){ //Una porción
         mensajeCant = " Una porción +10 puntos";
     }
-    else{
+    else{ //Dos porciones
         mensajeCant = " Dos porciones +15 puntos";
     }
     return mensajeCant;
