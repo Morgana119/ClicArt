@@ -42,12 +42,3 @@ Pasos a seguir para utilizar el programa:
 
 # Diagrama UML ✏️
 ![PetMe++ drawio](https://github.com/Morgana119/PetMe/assets/145613786/8d0b553b-624e-44c8-b25a-a7b00fd0523c)
-
-
-
-
-
-
-
-
-
