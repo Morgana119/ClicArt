@@ -20,7 +20,7 @@ _3. Darle cariño_ 💕
 _4. Limpiarlo_ 🫧
   + Puedes limpiar a los 3 tipos de animales, pero limpiar al conejo te dará un puntaje diferente.
 
-Igualmente, dentro de las opciones del menú, podrás consultar tu puntaje y salir del juego en cualquier momento. Tienes un tiempo limitado de **3 minutos** para demostrar que eres capaz de cuidar a tu mascota; para ello, deberás escoger entre las opciones que te da el menú. Es importante que tomes en cuenta que cada acción te otorgará un puntaje y si obtienes **300 puntos** durante o al término del tiempo, demostrarás que eres capaz de cuidar a un ser vivo y que estás lista/listo para tener tu propia mascota. Al finalizar el tiempo y/o hayas alcanzado el puntaje, se desplegarán todas las acciones que realizaste.
+Igualmente, dentro de las opciones del menú, podrás consultar tu puntaje y salir del juego en cualquier momento. Tienes un tiempo limitado de **3 minutos** para demostrar que eres capaz de cuidar a tu mascota; para ello, deberás escoger entre las opciones que te da el menú. Es importante que tomes en cuenta que cada acción te otorgará un puntaje y si obtienes **200 puntos** durante o al término del tiempo, demostrarás que eres capaz de cuidar a un ser vivo y que estás lista/listo para tener tu propia mascota. Al finalizar el tiempo y/o hayas alcanzado el puntaje, se desplegarán todas las acciones que realizaste.
 
 
 # Interés 💡
