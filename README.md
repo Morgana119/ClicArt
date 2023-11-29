@@ -7,7 +7,7 @@ _1. Darle de comer 🦴_
   + Para el perro las opciones de comida son: Croquetas de res, croquetas de pollo y premio.
   + Para el gato las opciones de comida son: Croquetas de salmón, croquetas de atún y premio.
   + Para el conejo las opciones de comida son: zanahoria, lechuga y premio.
-Además, podrás escoger que porción darles, las opciones son: Media porción, una porción y dos porciones.
+Además, podrás escoger qué porción darles, las opciones son: Media porción, una porción y dos porciones.
 
 _2. Darle agua_ 💧
   + Para los 3 la opción es agua y las porciones pueden ser media porción, una porción y dos porciones.
@@ -18,9 +18,9 @@ _3. Darle cariño_ 💕
   + Puedes acariciar a los 3 tipos de animal, pero acariciar al gato te dará un puntaje diferente.
   
 _4. Limpiarlo_ 🫧
-  + Puedes limpiar a los 3 tipos de animal, pero limpiar al conejo te dará un puntaje diferente.
+  + Puedes limpiar a los 3 tipos de animales, pero limpiar al conejo te dará un puntaje diferente.
 
-Igualmente, dentro de las opciones del menú, podrás consultar tu puntaje y salir del juego en cualquier momento. Tienes un tiempo limitado de **3 minutos** para demostrar que eres capaz de cuidar a tu mascota; para ello, deberás escoger entre las opciones que te da el menú. Es importante que tomes en cuenta que cada acción te otorgará un puntaje y si obtienes **300 puntos** durante o al termino del tiempo, demostrarás que eres capaz de cuidar a un ser vivo y que estás lista/listo para tener tu propia mascota. Al finalizar el tiempo y/o hayas alcanzado el puntaje, se desplegarán todas las acciones que realizaste.
+Igualmente, dentro de las opciones del menú, podrás consultar tu puntaje y salir del juego en cualquier momento. Tienes un tiempo limitado de **3 minutos** para demostrar que eres capaz de cuidar a tu mascota; para ello, deberás escoger entre las opciones que te da el menú. Es importante que tomes en cuenta que cada acción te otorgará un puntaje y si obtienes **300 puntos** durante o al término del tiempo, demostrarás que eres capaz de cuidar a un ser vivo y que estás lista/listo para tener tu propia mascota. Al finalizar el tiempo y/o hayas alcanzado el puntaje, se desplegarán todas las acciones que realizaste.
 
 
 # Interés 💡
