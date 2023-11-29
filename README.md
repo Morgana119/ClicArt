@@ -24,7 +24,7 @@ Igualmente, dentro de las opciones del menú, podrás consultar tu puntaje y sal
 
 
 # Interés 💡
-Me es interesante el proceso de relación entre los cuidados de distintos animales, al igual que del concepto de tener una mascota virtual y los valores de responsabilidad y empatía que se desarrollan a partir de su implementación; los cuales se pueden desarrolar con mayor facilidad para su implementación en la vida real.
+Me es interesante el proceso de relación entre los cuidados de distintos animales, al igual que del concepto de tener una mascota virtual y los valores de responsabilidad y empatía que se desarrollan a partir de su implementación; los cuales se pueden desarrollar con mayor facilidad para su implementación en la vida real.
 
 
 # Instalación ⚙️
@@ -34,9 +34,9 @@ Pasos a seguir para utilizar el programa:
 2. Guardarlos en un folder.
 3. Abre tu terminal dentro de ese folder.
 4. En tu terminal escribe: _g++ PetMe.cpp -o main.exe_
-5. En tu terminal escribe: _dir_ (para sistema operativo Windows) _ls_ (para sistema opertivo Linux/Mac OS)
+5. En tu terminal escribe: _dir_ (para sistema operativo Windows) _ls_ (para sistema operativo Linux/Mac OS)
 6. En tu terminal escribe: _./main.exe_
-7. ¡Diviertete y cuida a tu mascota!
+7. ¡Diviértete y cuida a tu mascota!
 
 
 # Diagrama UML ✏️
