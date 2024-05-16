@@ -7,7 +7,7 @@ La Galería consta de un nombre, ubicación y obras artísticas; dentro de la ga
 Cada obra contiene datos como: título, artista, año, técnica e interpretación. De igual forma, cada vanguardia además de tener los datos principales, tiene aspectos que la diferencian de las otras vanguardias. En cuanto al surrealismo, es su simbología, el dadaísmo su proceso y el cubismo su abstracción. 
 
 ## Funcionalidad 🧩
-ClicART busca dar a conocer algunas de las obras más importantes del Surrealismo, Dadaísmo y Cubismo; compartiendo información básica acerca de ellas. No es una línea del tiempo de la historia del arte, ni una guía.
+ClicART busca dar a conocer algunas de las obras más importantes del Surrealismo, Dadaísmo y Cubismo, compartiendo información básica acerca de ellas. No es una línea del tiempo de la historia del arte, ni una guía.
 
 ## Instalación ⚙️
 Pasos a seguir para utilizar el programa:
