@@ -1,10 +1,6 @@
 #ifndef DADAISM_H
 #define DADAISM_H
 
-#include <iostream>
-#include <sstream>
-#include <string>
-
 #include "Artwork.h"
 
 class Dadaism : public Artwork{

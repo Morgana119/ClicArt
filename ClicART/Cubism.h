@@ -1,10 +1,6 @@
 #ifndef CUBISM_H
 #define CUBISM_H
 
-#include <iostream>
-#include <sstream>
-#include <string>
-
 #include "Artwork.h"
 
 class Cubism : public Artwork{

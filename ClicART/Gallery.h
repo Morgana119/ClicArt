@@ -1,10 +1,6 @@
 #ifndef GALLERY_H
 #define GALLERY_H
 
-#include <iostream>
-#include <sstream>
-#include <string>
-
 #include "Artwork.h"
 #include "Surrealism.h"
 #include "Dadaism.h"

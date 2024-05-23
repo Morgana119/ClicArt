@@ -1,11 +1,6 @@
 #ifndef SURREALISM_H
 #define SURREALISM_H
 
-#include <iostream>
-#include <sstream>
-#include <string>
-
-
 #include "Artwork.h"
 
 class Surrealism : public Artwork{
