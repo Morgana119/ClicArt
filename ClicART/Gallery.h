@@ -44,11 +44,11 @@ class Gallery{
 
         void consultArtName(int artKey);
 
-        void addArtworkSurrealism(string arTittle, string arTist, int artYear, string symbol,int artKey);
+        //void addArtworkSurrealism(string arTittle, string arTist, int artYear, string symbol,int artKey);
         void addArtworkSurrealism(string arTittle, string arTist, int artYear, string arTechnic, string symbol,int artKey);
-        void addArtworkDadaism(string arTittle, string arTist, int artYear, string artProcess,int artKey);
+        //void addArtworkDadaism(string arTittle, string arTist, int artYear, string artProcess,int artKey);
         void addArtworkDadaism(string arTittle, string arTist, int artYear, string arTechnic, string artProcess,int artKey);
-        void addArtworkCubism(string arTittle, string arTist, int artYear, string abstract,int artKey);
+        //void addArtworkCubism(string arTittle, string arTist, int artYear, string abstract,int artKey);
         void addArtworkCubism(string arTittle, string arTist, int artYear, string arTechnic, string abstract,int artKey);
 };
 
@@ -97,28 +97,28 @@ void Gallery::consultArtName(int artKey){
     }
 }
 
-void Gallery::addArtworkSurrealism(string arTittle, string arTist, int artYear, string symbol,int key){
-    pieces[pcs] = new Surrealism(arTittle,arTist,artYear,symbol,key);
-    pcs++;
-}
+// void Gallery::addArtworkSurrealism(string arTittle, string arTist, int artYear, string symbol,int key){
+//     pieces[pcs] = new Surrealism(arTittle,arTist,artYear,symbol,key);
+//     pcs++;
+// }
 void Gallery::addArtworkSurrealism(string arTittle, string arTist, int artYear, string arTechnic, string symbol,int key){
     pieces[pcs] = new Surrealism(arTittle,arTist,artYear,arTechnic,symbol,key);
     pcs++;
 }
 
-void Gallery::addArtworkDadaism(string arTittle, string arTist, int artYear, string artProcess,int key){
-    pieces[pcs] = new Dadaism(arTittle,arTist,artYear,artProcess,key);
-    pcs++;
-}
+// void Gallery::addArtworkDadaism(string arTittle, string arTist, int artYear, string artProcess,int key){
+//     pieces[pcs] = new Dadaism(arTittle,arTist,artYear,artProcess,key);
+//     pcs++;
+// }
 void Gallery::addArtworkDadaism(string arTittle, string arTist, int artYear, string arTechnic, string artProcess,int key){
     pieces[pcs] = new Dadaism(arTittle,arTist,artYear,arTechnic,artProcess,key);
     pcs++;
 }
 
-void Gallery::addArtworkCubism(string arTittle, string arTist, int artYear, string abstract,int key){
-    pieces[pcs] = new Cubism(arTittle,arTist,artYear,abstract,key);
-    pcs++;
-}
+// void Gallery::addArtworkCubism(string arTittle, string arTist, int artYear, string abstract,int key){
+//     pieces[pcs] = new Cubism(arTittle,arTist,artYear,abstract,key);
+//     pcs++;
+// }
 void Gallery::addArtworkCubism(string arTittle, string arTist, int artYear, string arTechnic, string abstract,int key){
     pieces[pcs] = new Cubism(arTittle,arTist,artYear,arTechnic,abstract,key);
     pcs++;
