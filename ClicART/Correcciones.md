@@ -3,6 +3,7 @@
 Comentario: Identificación correcta de clases para solucionar el problema, el diagrama UML es correcto, falta escribir los casos que harían que el proyecto deje de funcionar.
 
 Corrección (en el README): 
+
 Limitaciones 🧩
 - Este proyecto no tiene incluido la iinterfaz visual de las obras.
 - Al usar la opción de añadir obras, no es posible buscar esas recien agregadas por medio del buscador por artista.
