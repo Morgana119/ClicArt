@@ -2,7 +2,6 @@
 using namespace std;
 
 #include "Gallery.h"
-#include "Artwork.h"
 
 int menuVanguardia(){
     cout << endl;
