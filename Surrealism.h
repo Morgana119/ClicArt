@@ -26,11 +26,11 @@ void Surrealism::setSymbolism(string symbol){
 string Surrealism::infoArt(){
     stringstream aux;
     if (technic == ""){
-        aux << endl << "Título: "<< tittle << endl << "Artista: "<< artist << endl << "Año: "<< year << endl << "Symbología: " << symbology << endl;
+        aux << endl << "Titulo: "<< tittle << endl << "Artista: "<< artist << endl << "Ano: "<< year << endl << "Symbologia: " << symbology << endl;
         return aux.str();
     }
     else{
-        aux << endl << "Título: "<< tittle << endl << "Artista: "<< artist << endl << "Año: "<< year << endl << "Técnica: " << technic << endl << "Symbología: " << symbology << endl;
+        aux << endl << "Titulo: "<< tittle << endl << "Artista: "<< artist << endl << "Ano: "<< year << endl << "Tecnica: " << technic << endl << "Symbologia: " << symbology << endl;
         return aux.str();
     }
 }
