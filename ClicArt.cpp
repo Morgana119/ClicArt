@@ -202,7 +202,7 @@ int main(){
             }
             default:
                 cout << "-----------------------------------------------------------" << endl;
-                cout << "\nOpcion inválida. Por favor, elija entre 1 - 5." << endl;
+                cout << "\nOpcion invalida. Por favor, elija entre 1 - 5." << endl;
         }
     }
 }
