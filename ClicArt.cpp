@@ -12,11 +12,11 @@ int menuVanguardia(){
 }
 int menuArtista(){
     cout << endl;
-    cout << "1. Salvador Dalí" << endl;
-    cout << "2. René Magritte" << endl;
+    cout << "1. Salvador Dali" << endl;
+    cout << "2. Rene Magritte" << endl;
     cout << "3. Man Ray" << endl;
     cout << "4. Marchel Duchamp" << endl;
-    cout << "5. Hanna Höch" << endl;
+    cout << "5. Hanna Hoch" << endl;
     cout << "6. Pablo Picasso" << endl;
     cout << endl;
 }
@@ -40,7 +40,7 @@ int main(){
     
     while (option != 5){
         options();
-        cout << "Selecciona una opción: ";
+        cout << "Selecciona una opcion: ";
         cin >> option;
 
         switch(option){
@@ -50,7 +50,7 @@ int main(){
             }
             case 2:{
                 menuArtista();
-                cout << "Selecciona una opción: ";
+                cout << "Selecciona una opcion: ";
                 cin >> optionArtist;
                 switch(optionArtist){
                     case 1:{
@@ -85,7 +85,7 @@ int main(){
             }
             case 3:{
                 menuVanguardia();
-                cout << "Selecciona una opción: ";
+                cout << "Selecciona una opcion: ";
                 cin >> optionVanguardia;
                 switch(optionVanguardia){
                     case 1:{
@@ -115,12 +115,12 @@ int main(){
                 int optionAgregar;
 
                 menuVanguardia();
-                cout << "¿Qué tipo de vanguardia es la obra que quieres agregar? ";
+                cout << "Que tipo de vanguardia es la obra que quieres agregar? ";
                 cin >> optionAgregar;
                 switch(optionAgregar){
                     case 1:{
                         Surrealism obraS;
-                        cout << "Título: ";
+                        cout << "Titulo: ";
                         cin >> tittle;
                         obraS.setTittle(tittle);
 
@@ -128,15 +128,15 @@ int main(){
                         cin >> artist;
                         obraS.setArtist(artist);
 
-                        cout << "Año: ";
+                        cout << "Ano: ";
                         cin >> year;      
                         obraS.setYear(year);
 
-                        cout << "Técnica: ";
+                        cout << "Tecnica: ";
                         cin >> technic;  
                         obraS.setTechnic(technic);
 
-                        cout << "Simbología: ";
+                        cout << "Simbologia: ";
                         cin >> symbology;
                         obraS.setSymbolism(symbology);
 
@@ -145,7 +145,7 @@ int main(){
                     }
                     case 2:{
                         Dadaism obraD;
-                        cout << "Título: ";
+                        cout << "Titulo: ";
                         cin >> tittle;
                         obraD.setTittle(tittle);
 
@@ -153,11 +153,11 @@ int main(){
                         cin >> artist;
                         obraD.setArtist(artist);
 
-                        cout << "Año: ";
+                        cout << "Ano: ";
                         cin >> year;      
                         obraD.setYear(year);
 
-                        cout << "Técnica: ";
+                        cout << "Tecnica: ";
                         cin >> technic;  
                         obraD.setTechnic(technic);
 
@@ -170,7 +170,7 @@ int main(){
                     }
                     case 3:{
                         Cubism obraC;
-                        cout << "Título: ";
+                        cout << "Titulo: ";
                         cin >> tittle;
                         obraC.setTittle(tittle);
 
@@ -178,15 +178,15 @@ int main(){
                         cin >> artist;
                         obraC.setArtist(artist);
 
-                        cout << "Año: ";
+                        cout << "Ano: ";
                         cin >> year;      
                         obraC.setYear(year);
 
-                        cout << "Técnica: ";
+                        cout << "Tecnica: ";
                         cin >> technic;  
                         obraC.setTechnic(technic);
 
-                        cout << "Abstracción: ";
+                        cout << "Abstraccion: ";
                         cin >> abstraction;
                         obraC.setAbstraction(abstraction);
 
@@ -202,7 +202,7 @@ int main(){
             }
             default:
                 cout << "-----------------------------------------------------------" << endl;
-                cout << "\nOpción inválida. Por favor, elija entre 1 - 5." << endl;
+                cout << "\nOpcion inválida. Por favor, elija entre 1 - 5." << endl;
         }
     }
 }

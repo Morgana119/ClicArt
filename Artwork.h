@@ -19,7 +19,6 @@ class Artwork{
         int artKey=0;
 
     public:
-        //CONSTRUCTOR VACIO??
         Artwork():tittle(""),artist(""),year(0),technic(""),arType(""),artKey(0){};
         Artwork(string arTittle, string arTist, int artYear,string type,int key){
             tittle = arTittle;

@@ -26,11 +26,11 @@ void Cubism::setAbstraction(string abstract){
 string Cubism::infoArt(){
     stringstream aux;
     if (technic == ""){
-    aux << endl << "Título: "<< tittle << endl << "Artista: "<< artist << endl << "Año: "<< year << endl << "Abstracción: " << abstraction << endl;
+    aux << endl << "Titulo: "<< tittle << endl << "Artista: "<< artist << endl << "Ano: "<< year << endl << "Abstraccion: " << abstraction << endl;
         return aux.str();
     }
     else{
-    aux << endl << "Título: "<< tittle << endl << "Artista: "<< artist << endl << "Año: "<< year << endl << "Técnica: " << technic << endl << "Abstracción: " << abstraction << endl;
+    aux << endl << "Titulo: "<< tittle << endl << "Artista: "<< artist << endl << "Ano: "<< year << endl << "Tecnica: " << technic << endl << "Abstraccion: " << abstraction << endl;
         return aux.str();
     }
 }

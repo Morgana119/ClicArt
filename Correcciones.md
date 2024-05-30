@@ -12,3 +12,7 @@ Limitaciones 🧩
 - No se pueden agregar nuevas obras sin la parte de técnica.
 
 ### Se actualizó el UML de acuerdo a lo implementado en el código que se entregó en el avance 2
+
+## Avance 2
+
+Comentario: 
