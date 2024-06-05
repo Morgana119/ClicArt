@@ -24,7 +24,7 @@ Pasos a seguir para utilizar el programa:
 7. ¡Diviértete y explora el bello mundo del arte!
 
 ## Diagrama UML ✏️
-![Art Gallery_UML-Page-1 drawio (1)](https://github.com/Morgana119/Proyectos/assets/145613786/52b11448-87e8-4d39-8883-1b0da442adc4)
+![Art Gallery_UML-Page-1 drawio (2)](https://github.com/Morgana119/ClicArt/assets/145613786/2daeeddb-d94a-4a9a-85f6-1172cb6c4aac)
 
 # Correcciones 
 
