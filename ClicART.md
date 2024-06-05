@@ -8,7 +8,6 @@ Cada obra contiene datos como: título, artista, año, técnica e interpretació
 
 ## Limitaciones 🧩
 - Este proyecto no tiene incluido la iinterfaz visual de las obras.
-- Al usar la opción de añadir obras, no es posible buscar esas recien agregadas por medio del buscador por artista.
 - Si se selecciona una opción que no está contemplada dentro de los submenus, se regersará al menú principal.
 - Si en el menú principal, se escribe en consola un valor tipo string, el ciclo del menú principal seguirá de manera indefinida.
 - No se pueden agregar nuevas obras sin la parte de técnica.
@@ -16,7 +15,7 @@ Cada obra contiene datos como: título, artista, año, técnica e interpretació
 ## Instalación ⚙️
 Pasos a seguir para utilizar el programa:
 
-1. Descarga los archivos (...).
+1. Descarga los archivos (ClicArt.cpp, Artwork.h, Gallery.h, Surrealism.h, Dadaism.h, Cubism.h).
 2. Guardarlos en un folder.
 3. Abre tu terminal dentro de ese folder.
 4. En tu terminal escribe: g++ ClicART.cpp -o main.exe
@@ -26,4 +25,40 @@ Pasos a seguir para utilizar el programa:
 
 ## Diagrama UML ✏️
 ![Art Gallery_UML-Page-1 drawio (1)](https://github.com/Morgana119/Proyectos/assets/145613786/52b11448-87e8-4d39-8883-1b0da442adc4)
+
+# Correcciones 
+
+## Avance 1
+
+Comentario: Identificación correcta de clases para solucionar el problema, el diagrama UML es correcto, falta escribir los casos que harían que el proyecto deje de funcionar.
+
+Corrección (en el README): 
+
+Limitaciones 🧩
+- Este proyecto no tiene incluido la iinterfaz visual de las obras.
+- Al usar la opción de añadir obras, no es posible buscar esas recien agregadas por medio del buscador por artista.
+- Si se selecciona una opción que no está contemplada dentro de los submenus, se regersará al menú principal.
+- Si en el menú principal, se escribe en consola un valor tipo string, el ciclo
+- No se pueden agregar nuevas obras sin la parte de técnica.
+
+### Se actualizó el UML de acuerdo a lo implementado en el código que se entregó en el avance 2
+
+## Avance 2
+
+Comentario: Correcta implemetnacion, de herencia modificadores de acceso sobrecarga y sobreescritura. Te recomiendo subir el proyecto a un respositorio unico para el proyecto pues al final de la materia se califica corriendo lo que se descarga del .zip del repositorio, tambien te recomiendo no utilizar caracteres especiales en el output pues en la terminal hace que los menajes del codigo sean muy confusos.
+
+Correcciones: 
+- Se dejo el repositorio sólo con los archivos del proyecto.
+- Se quitaron los carácteres especiales.
+
+## Avance 3 
+
+Comentario: Bien Implementado el polimorfismo.
+
+Cambios extra:
+- Se agregaron métodos.
+- Se documentó el código.
+- Se eliminó todo lo relacionado con ArtKey.
+- Actualización del diagrama UML.
+
 
