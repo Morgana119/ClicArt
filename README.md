@@ -24,7 +24,7 @@ Pasos a seguir para utilizar el programa:
 7. ¡Diviértete y explora el bello mundo del arte!
 
 ## Diagrama UML ✏️
-![Art Gallery_UML-Page-1 drawio (2)](https://github.com/Morgana119/ClicArt/assets/145613786/2daeeddb-d94a-4a9a-85f6-1172cb6c4aac)
+![Art Gallery_UML-Page-1 drawio (2)](https://github.com/Morgana119/ClicArt/assets/145613786/6c6349af-9f3c-4d11-bbb5-2bf27e5d332d)
 
 # Correcciones 
 
@@ -40,6 +40,7 @@ Limitaciones 🧩
 - Si se selecciona una opción que no está contemplada dentro de los submenus, se regersará al menú principal.
 - Si en el menú principal, se escribe en consola un valor tipo string, el ciclo
 - No se pueden agregar nuevas obras sin la parte de técnica.
+- El menu de artistas no se actualiza en el caso de que se agregen nuevas obras, sin embargo, sí se agregan a la galería y se pueden visualizar al mostrar todas las obras, buscarlo por el nombre del artista o vanguardia. 
 
 ### Se actualizó el UML de acuerdo a lo implementado en el código que se entregó en el avance 2
 
@@ -61,4 +62,9 @@ Cambios extra:
 - Se eliminó todo lo relacionado con ArtKey.
 - Actualización del diagrama UML.
 
+## Avance 4
+
+- Corrección de UML
+- Corrección extensión de carácteres
+- Actualización de limitaciones
 
