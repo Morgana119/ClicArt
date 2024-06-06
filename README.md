@@ -11,6 +11,7 @@ Cada obra contiene datos como: título, artista, año, técnica e interpretació
 - Si se selecciona una opción que no está contemplada dentro de los submenus, se regersará al menú principal.
 - Si en el menú principal, se escribe en consola un valor tipo string, el ciclo del menú principal seguirá de manera indefinida.
 - No se pueden agregar nuevas obras sin la parte de técnica.
+- El menu de artistas no se actualiza en el caso de que se agregen nuevas obras, sin embargo, sí se agregan a la galería y se pueden visualizar al mostrar todas las obras, buscarlo por el nombre del artista o vanguardia. 
 
 ## Instalación ⚙️
 Pasos a seguir para utilizar el programa:
@@ -40,7 +41,6 @@ Limitaciones 🧩
 - Si se selecciona una opción que no está contemplada dentro de los submenus, se regersará al menú principal.
 - Si en el menú principal, se escribe en consola un valor tipo string, el ciclo
 - No se pueden agregar nuevas obras sin la parte de técnica.
-- El menu de artistas no se actualiza en el caso de que se agregen nuevas obras, sin embargo, sí se agregan a la galería y se pueden visualizar al mostrar todas las obras, buscarlo por el nombre del artista o vanguardia. 
 
 ### Se actualizó el UML de acuerdo a lo implementado en el código que se entregó en el avance 2
 
