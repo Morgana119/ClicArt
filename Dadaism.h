@@ -55,11 +55,13 @@ void Dadaism::setProcess(string artProcess){
 string Dadaism::infoArt(){
     stringstream aux;
     if (technic == ""){
-    aux << endl << "Titulo: "<< tittle << endl << "Artista: "<< artist << endl << "Ano: "<< year << endl << "Proceso: " << process << endl;
+    aux << endl << "Titulo: "<< tittle << endl << "Artista: "<< artist << endl << "Ano: "<< year << endl;
+    aux << "Proceso: " << process << endl;
         return aux.str();
     }
     else{
-    aux << endl << "Titulo: "<< tittle << endl << "Artista: "<< artist << endl << "Ano: "<< year << endl << "Tecnica: " << technic << endl << "Proceso: " << process << endl;
+    aux << endl << "Titulo: "<< tittle << endl << "Artista: "<< artist << endl << "Ano: "<< year << endl;
+    aux << "Tecnica: " << technic << endl << "Proceso: " << process << endl;
         return aux.str();
     }
 }
