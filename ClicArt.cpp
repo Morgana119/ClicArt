@@ -28,6 +28,7 @@ int menuVanguardia() {
     cout << "2. Dadaismo" << endl;
     cout << "3. Cubismo" << endl;
     cout << endl;
+    return 0;
 }
 
 //Menu secundario para selección de artistas
@@ -211,4 +212,5 @@ int main() {
                 cout << "\nOpcion invalida. Por favor, elija entre 1 - 5." << endl;
         }
     }
+    return 0;
 }
