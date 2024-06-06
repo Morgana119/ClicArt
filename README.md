@@ -64,7 +64,7 @@ Cambios extra:
 
 ## Avance 4
 
-- Corrección de UML
-- Corrección extensión de carácteres
-- Actualización de limitaciones
+- Corrección del diagrama UML.
+- Corrección en la extensión de carácteres.
+- Actualización de limitaciones.
 
